@@ -1,0 +1,13 @@
+{
+  "filename": "filename without file type f.e. .json",
+  "channels": [
+    {
+      "name": "",
+      "last_message_id": -1
+    }
+  ],
+  "dst_chat": {
+    "name": "",
+    "username": ""
+  }
+}
